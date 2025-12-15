@@ -1,5 +1,6 @@
-# Ormi-Back-End14-Team-1-Project
-EST Soft 오르미 백엔드14기 팀 프로젝트  HTML - "AI 포털 사이트 프로토 타입 구축" 
+# Ormi Back-End 14 Team1 project HTML `Ai Portal Site`
+
+## 2025-12-12 team project start
 
 1. Team Member
    - 정 확 
